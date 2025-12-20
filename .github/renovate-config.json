@@ -6,5 +6,8 @@
   "platform": "github",
   "prConcurrentLimit": 10,
   "prHourlyLimit": 10,
+  "repositories": [
+    "steled/default-template"
+  ],
   "username": "cheeky-badger-bot"
 }
